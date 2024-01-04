@@ -1,3 +1,3 @@
 #git and github test
 
-oleg + taras
+oleg + taras + augistin
