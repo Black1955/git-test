@@ -1,0 +1,1 @@
+const oleg = 2;
